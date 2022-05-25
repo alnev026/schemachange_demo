@@ -1,2 +1,2 @@
 # schemachange_demo
-Repository fo schemachange demo
+Repository for schemachange demo
